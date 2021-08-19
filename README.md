@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently working on something confidential 
-- 🌱 I’m currently learning ReactJS
-- 🤔 I’m looking for work
 - 📫 How to reach me: noblewill2012@icloud.com
 
 <br>
